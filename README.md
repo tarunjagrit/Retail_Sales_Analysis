@@ -298,15 +298,3 @@ Some major insights obtained from the analysis include:
 - Time-Series Forecasting
 - Machine Learning Models
 
----
-
-##  Author
-
-**Manish Kumar Gupta**
-
-Electronics & Communication Engineering  
-Birla Institute of Technology, Mesra
-
-- GitHub: https://github.com/Manish-OG
-- LinkedIn: https://www.linkedin.com/in/manish-kumar-gupta-b63863327?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: gupta.manish2027@gmail.com
